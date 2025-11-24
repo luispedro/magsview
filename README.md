@@ -11,6 +11,11 @@ This is based on [elm-land](https://elm-lang.org/).
 npx elm-land server
 ```
 
+## Using a different MAG catalog
+
+See [docs/adapting-mags.md](docs/adapting-mags.md) for instructions on swapping in your
+own MAG metadata and per-genome JSON files.
+
 
 ## LICENSE
 
